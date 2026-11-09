@@ -18,15 +18,15 @@ export interface BlogPost {
 export const blogPosts: BlogPost[] = [
   {
     slug: "cna-school-growth-case-study",
-    title: "Case Study: How We Helped a CNA School Go From a Few Students a Month to 18-30",
+    title: "How We Grew a CNA School's Revenue 487% in One Month",
     description:
-      "An anonymous CNA school hired us to help it grow. By testing every step of the enrollment journey, we took them from a handful of students a month to 18-30.",
+      "An anonymous CNA school hired us to help it grow. In one month its revenue went from $5,000 to $29,375, up 487%. Here is what we tested to get there.",
     date: "2026-11-09",
     readTime: "6 min read",
     author: "Jocelyn Powell",
     category: "Case Study",
     keywords:
-      "CNA school growth, CNA school case study, CNA school enrollment, allied health school marketing, CNA school paid ads, increase CNA enrollment",
+      "CNA school revenue growth, grow CNA school revenue, CNA school growth case study, CNA school enrollment, allied health school marketing, CNA school paid ads, increase CNA enrollment",
     content: `
 ## Where they started
 
