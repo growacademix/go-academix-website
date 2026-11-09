@@ -6,9 +6,11 @@ import { getPostBySlug, blogPosts } from "@/data/blogPosts";
 import { ArrowLeft, ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import enrollmentScreenshot from "@/assets/shot-11.50.25_am.png.asset.json";
+import revenueGrowth from "@/assets/cna-school-revenue-growth.jpg.asset.json";
 
 const assetMap: Record<string, string> = {
   "ENROLLMENT_SCREENSHOT": enrollmentScreenshot.url,
+  "REVENUE_GROWTH": revenueGrowth.url,
 };
 
 const renderContent = (content: string) => {

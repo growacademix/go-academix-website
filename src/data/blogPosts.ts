@@ -17,6 +17,68 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "cna-school-growth-case-study",
+    title: "Case Study: How We Helped a CNA School Go From a Few Students a Month to 18-30",
+    description:
+      "An anonymous CNA school hired us to help it grow. By testing every step of the enrollment journey, we took them from a handful of students a month to 18-30.",
+    date: "2026-11-09",
+    readTime: "6 min read",
+    author: "Jocelyn Powell",
+    category: "Case Study",
+    keywords:
+      "CNA school growth, CNA school case study, CNA school enrollment, allied health school marketing, CNA school paid ads, increase CNA enrollment",
+    content: `
+## Where they started
+
+This school came to us with a good program and not enough students. They were enrolling a few people a month. The instructors were great, the classes were solid, but the seats were not filling. They asked us for help growing, and we agreed to keep their name private.
+
+Today they enroll 18 to 30 students a month.
+
+![Gross volume for one month: $29,375, up 487.5% from $5,000 the period before](REVENUE_GROWTH)
+
+That screenshot is from their payment dashboard. In one month, gross volume went from $5,000 to $29,375. Same school, same instructors, same classes. What changed was how students found them and how easy it was to say yes.
+
+## What we actually did
+
+There was no single magic fix. We took each step a future student goes through, from first seeing the school to sitting in class on day one, and we tested it until it worked.
+
+### We rebuilt the website to convert
+
+Their old site looked fine but did not help anyone enroll. Class dates were hard to find. Pricing was buried. There was no clear next step. We redesigned it around one goal: getting a visitor to pick a class and start enrolling. Clear schedules, clear pricing, one obvious button, and a page that works well on a phone, because that is where most students are looking.
+
+### We built trust online and on social
+
+Students want to know a school is real before they hand over money. We built out their Google presence and reviews, and started posting regularly on social media. Real classroom photos, graduates, instructors, and class start dates. When someone checked them out, there was proof that real people were finishing and getting hired.
+
+### We tested ad strategies
+
+We ran small tests across channels and audiences, kept what brought in enrollments, and cut what did not. Clicks and likes were not the goal. Paid enrollments were.
+
+### We tested the enrollment flow
+
+A lot of interested students get lost between "I want to sign up" and actually signing up. We tested the steps, the forms, and the follow up until more people made it all the way through.
+
+## Moving them onto GO ACADEMIX
+
+Once more students were coming in, the school needed a better way to handle them. We onboarded them onto GO ACADEMIX for enrollment, learning management, grades, and attendance. Instead of chasing paperwork and spreadsheets, their staff can see every student in one place, from the day they enroll to the day they finish.
+
+## Where things are now
+
+We still run their marketing today, including paid ads and social media. And we are still testing.
+
+## The experimenting never stops
+
+This is the part most people miss. What worked last year may not work next year. Ad platforms change. Search changes. AI is changing how people look for schools and answers. Students' habits shift. If you find a strategy that works and stop there, it will slowly stop working.
+
+The schools that keep growing are the ones that keep adjusting. Keep testing, keep watching your numbers, and keep up with new tools as they show up. That is how we run our own school, and it is how we run marketing for the schools we work with.
+`,
+    cta: {
+      headline: "Want results like this for your school?",
+      body: "We run a CNA school ourselves and help other schools grow enrollment. Book a free consultation and we will look at your enrollment journey with you.",
+      button: "Book a free consultation",
+    },
+  },
+  {
     slug: "marketing-your-cna-school",
     title: "How to Do Marketing for Your CNA School",
     description:
